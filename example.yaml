@@ -1,0 +1,21 @@
+- programId: tLSGV7BXFM2LfS3jwFyk5bAqDMisNQE4FUWPMxNnXJZ
+  accounts:
+    - key: 8frvUeZbzVmm9NsKRMFmfwhjda3FUD2D34pTxkVpzSRG
+      isSigner: false
+      isWritable: false
+    - key: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+      isSigner: false
+      isWritable: false
+    - key: Esbjk8SWpFLNCZ3tsc6sGNqyC8qPssi4q9mbCrb2FePz
+      isSigner: false
+      isWritable: false
+    - key: 7jwESFUjsnGK5AdhspzRaiwHKVeY2ZK5CURi3EL7QF2d
+      isSigner: false
+      isWritable: false
+    - key: DJua6EUWYRUBrMepivE4rGb4dUJzuBWFCxkPvSxx8rhE
+      isSigner: false
+      isWritable: false
+    - key: 9Lc6SYE1r46rJ3cxwVcomXNzRv1i1VrTDye93gwTMfyW
+      isSigner: false
+      isWritable: false
+  data: 0,0,0,0

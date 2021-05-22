@@ -1,0 +1,17 @@
+[package]
+name = "soltx"
+version = "0.1.0"
+authors = ["paul <paulsimonschaaf@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.33.3"
+yaml-rust = "0.4.5"
+solana-sdk = "1.6.8"
+solana-client = "1.6.8"
+anyhow = "1.0.40"
+solana-cli-config = "1.6.8"
+solana-clap-utils = "1.6.8"
+solana-remote-wallet = "1.6.8"
